@@ -1,0 +1,10 @@
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\bin\MSMQ.exe
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\bin\MSMQ.pdb
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\bin\MSMQ.xml
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.vbprojAssemblyReference.cache
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.Form1.resources
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.vbproj.GenerateResource.cache
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.vbproj.CoreCompileInputs.cache
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.exe
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.xml
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MgrMSMQ\MSMQ\obj\Debug\MSMQ.pdb

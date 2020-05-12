@@ -1,0 +1,13 @@
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\bin\Debug\File2MsMq.exe.config
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\bin\Debug\File2MsMq.exe
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\bin\Debug\File2MsMq.pdb
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.MainForm.resources
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.Properties.Resources.resources
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.csproj.GenerateResource.Cache
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.exe
+c:\users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.pdb
+C:\Users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\bin\Debug\MERGED_IDD.dll
+C:\Users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.csprojAssemblyReference.cache
+C:\Users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.csproj.CoreCompileInputs.cache
+C:\Users\archier\documents\visual studio 2017\Projects\File2MsMq\File2MsMq\obj\Debug\File2MsMq.csproj.CopyComplete

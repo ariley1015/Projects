@@ -1,0 +1,12 @@
+.\private$\ADT.InQueue
+.\private$\CPC.Server2OP2
+.\private$\CPC02.SERVER2OPC
+.\private$\CRT.InQueue
+.\private$\Epic.RXC.ZPM.Queue
+.\private$\Epic.ZPM.InQueue
+.\private$\MFN.InQueue
+.\private$\RDE.InQueue
+.\private$\RDS.InQueue
+.\private$\RSC.InQueue
+.\private$\RXL.InQueue
+.\private$\RXS.InQueue

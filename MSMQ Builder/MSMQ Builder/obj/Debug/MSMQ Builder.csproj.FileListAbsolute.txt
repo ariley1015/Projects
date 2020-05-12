@@ -1,0 +1,10 @@
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\bin\Debug\MSMQ Builder.exe.config
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\bin\Debug\MSMQ Builder.exe
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\bin\Debug\MSMQ Builder.pdb
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ_Builder.Properties.Resources.resources
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ Builder.csproj.GenerateResource.Cache
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ Builder.exe
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ Builder.pdb
+c:\users\archier\documents\visual studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ_Builder.MainForm.resources
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ Builder.csprojAssemblyReference.cache
+C:\Users\archier\Documents\Visual Studio 2017\Projects\MSMQ Builder\MSMQ Builder\obj\Debug\MSMQ Builder.csproj.CoreCompileInputs.cache
